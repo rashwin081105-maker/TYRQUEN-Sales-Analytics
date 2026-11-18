@@ -10,6 +10,16 @@ The report provides an overview of sales performance and a detailed analysis of 
 
 **Note:** This project uses synthetic sample sales data for demonstration and portfolio purposes. It does not contain real client or business transactions.
 
+## Dashboard Preview
+
+### Page 1 – Sales Performance
+
+![Sales Performance](Screenshots/sales-performance.png)
+
+### Page 2 – Detailed Sales Analysis
+
+![Detailed Sales Analysis](Screenshots/detailed-sales-analysis.png)
+
 ## Dashboard Pages
 
 ### 1. Sales Performance
